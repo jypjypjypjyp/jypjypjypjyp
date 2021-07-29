@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Multi-Sensor SLAM, Deep Learning, Reinforcement Learning;
-- 🌱 I’m currently learning SLAM, Game-Dev, Deep-Learning;
-- 👯 I’m looking to collaborate on Auto-Driving, Game-Dev, Robot;
-- 🤔 I’m looking for help with SLAM, Deep Learning, Game-Dev;
-- 💬 Ask me about SLAM, Alogrithm, .Net;
+- 🔭 I’m currently working on Autonomous Driving;
+- 🌱 I’m currently learning Multi-Sensor SLAM, HD Mapping, Deep Learning, Reinforcement Learning;
+- 👯 I’m looking to collaborate on Autonomous Driving, Robotics;
+- 🤔 I’m looking for help with SLAM, Deep Learning;
+- 💬 Ask me about Multi-Sensor SLAM, Alogrithm, Deep Learning, Reinforcement Learning;
 - 📫 How to reach me: jypjypjypjyp@hotmail.com;
 - 😄 Pronouns: J~Y~P!
 - ⚡ Fun fact: Love playing games;
